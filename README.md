@@ -56,3 +56,15 @@ coefficient matrix
 ![Alt text](image-7.png)
 
 matrix multiplication time complexity is O(n3)
+
+**3. Multivariate Linear Regression (Batch Gradient Descent)**
+
+loss function is mean squared error
+
+![Alt text](image-8.png)
+
+calculation of weights by batch grad descent
+
+![Alt text](image-9.png)
+
+![Alt text](image-10.png)
